@@ -1,0 +1,51 @@
+/* El * es un selector universal. Significa que aplica a todo por igual */
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+body{
+    background: rgba(252, 232, 59, 0.918);
+}
+
+/*
+body{
+    background-image: url(https://www.baenegocios.com/__export/1572456139528/sites/cronica/img/2019/10/30/whatsapp_image_2019-10-30_at_13_28_01_1_crop1572456139136.jpeg_1402874324.jpeg);
+}
+*/
+.Principal{
+    background: rgb(255, 255, 255);
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+
+}
+
+.Cabecera{
+    border: 3px dashed rgba(252, 232, 59, 0.918);
+    text-align: center;
+}
+
+.Contenido{
+
+text-align: justify;
+}
+
+.Destacado{
+font-style: italic;
+font-size: 20px;
+}
+
+.Título{
+    color: rgba(252, 232, 59, 0.918);
+}
+
+.Pie {
+    background: rgba(252, 232, 59, 0.918);
+    
+}
+
